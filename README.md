@@ -14,7 +14,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- OS Ticket Installed & Configured
 
 <h2>Operating Systems Used </h2>
 
@@ -42,6 +42,6 @@ Once OS Ticket is installed into the VM's commence with mock tickets by means of
 <img src="https://i.imgur.com/YkXrV6X.jpg"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once all tickets have been assigned accordingly, following task is to emulate the response of a Help Desk Technician by means of tackling highest priority tickets first. The purpose of this phase of the lab assignment will be to show case and teach the purpose of SLA's. Having the SLA's established by the Admin, and then having them brought to the attention of the manager mocks the real life enviroment. In doing so, it allows student to then see the flow of ticket assignment from top tier and onward below. It will provide student with a wholelistic approach that will better prepare said student for the real life enviroment.
 </p>
 <br />
